@@ -27,10 +27,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [tu.correo@example.com](mailto:tu.correo@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 📸 Instagram: [@tu_instagram](https://instagram.com/tu_instagram)  
-- 🐦 Twitter: [@tu_twitter](https://twitter.com/tu_twitter)
+- 📧 Email: [andresdeadebayor@gmail.com](mailto:andresdeadebayor@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/josue-andres-brazales-cango-74459b285/](https://www.linkedin.com/in/josue-andres-brazales-cango-74459b285/)  
+- 📸 Instagram: [@andres.jabc](https://www.instagram.com/andres.jabc/)  
 
 ---
 
